@@ -48,7 +48,6 @@ This project is a job application system built using microservices architecture.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sohaibkhan-007/my-microservices-job-Application.git
     cd my-microservices-job-Application
     ```
 
